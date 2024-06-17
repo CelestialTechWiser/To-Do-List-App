@@ -27,4 +27,4 @@ Follow the instructions below to set up the project locally.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/CelestialTechWiser/To-Do-List-App.git
